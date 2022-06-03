@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philipp Weinguny</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
 
-- 🌱 I’m currently learning **JS,Jquery, React**
+- 🌱 I’m currently learning **JS, Jquery and Laravel**
 
 - 📫 How to reach me **philipp.hartl2@hotmail.com**
 
