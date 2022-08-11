@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Philipp Weinguny</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
 
-- 🌱 I’m currently learning **JS, Jquery and Laravel**
+- 🌱 I’m currently learning **JS and Jquery**
 
 - 📫 How to reach me **philipp.hartl2@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><ul class="list-unstyled social-icons">
+                      <li><a href="https://twitter.com/WeingunyP?t=4Uk7xg2N3iV1ebOX9bHsNw&s=09">Twitter</a></li>
+                      <li><a href="https://www.facebook.com/philipp.hartl.58">Facebook</li>
+                      <li><a href="https://www.linkedin.com/in/philipp-weinguny-163b709b/">Linkedin</a></li>
+                      <li><a href="https://www.instagram.com/webdesign.weinguny/">Instagram</a></li>
+                    </ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
