@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philipp Weinguny</h1>
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">A passionate web developer from Austria</h3>
 
-- 🌱 I’m currently learning **JS and Jquery**
-
-- 📫 How to reach me **philipp.hartl2@hotmail.com**
+- 📫 How to reach me **philipp@weinguny.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><ul class="list-unstyled social-icons">
