@@ -2,13 +2,13 @@
 <h3 align="center">A passionate web developer from Austria</h3>
 <br>
 
-- 📫 How to reach me **philipp@weinguny.com**
+📫 How to reach me **philipp@weinguny.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><ul class="list-unstyled social-icons">
                       <li><a href="https://www.facebook.com/philipp.hartl.58">Facebook</li>
                       <li><a href="https://www.linkedin.com/in/philipp-weinguny-163b709b/">Linkedin</a></li>
-                      <li><a href="https://www.instagram.com/webdesign.weinguny/">Instagram</a></li>
+                      <li><a href="https://www.instagram.com/philipp_weinguny/">Instagram</a></li>
                       <li><a href="https://www.tiktok.com/@webdesign.weinguny">TikTok</a></li>
                       <li><a href="https://twitter.com/WeingunyP?t=4Uk7xg2N3iV1ebOX9bHsNw&s=09">Twitter</a></li>
                     </ul>
